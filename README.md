@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I'm **4th-year student at University of Transport and Communications campus in HCMC**
+
 - 📫 How to reach me **trinhthanhnam2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
