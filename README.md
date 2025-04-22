@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnamit299" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com?user=tnamit299&theme=react" alt="GitHub Streak" /> 
 </p>
 
 <p align="center">
