@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=tnamit299&label=Profile%20views&color=0e75b6&style=flat" alt="tnamit299" />
 </p>
 
-- 🔭 I am currently a cross-platform Mobile Developer (Flutter)**  
+- 🔭 I am currently a cross-platform Mobile Developer (Flutter) **  
 - 📫 How to reach me **trinhthanhnam2003@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
