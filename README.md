@@ -1,14 +1,8 @@
 <div align="center">
   <a href="https://github.com/tnamit299">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&height=80&lines=Hello,+I'm+Nam+👋;Passionate+Mobile+Developer;Flutter+%26+Dart+Specialist;Welcome+to+my+GitHub+Workspace!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&height=80&lines=Hello,%20I%20am%20Nam%20%F0%9F%91%8B;Passionate%20Mobile%20Developer;Flutter%20%26%20Dart%20Specialist;Welcome%20to%20my%20GitHub%20Workspace!" alt="Typing SVG" />
   </a>
 </div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tnamit299&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/tnamit299">
@@ -31,7 +25,8 @@
         <code>📫</code> Reach out to me: <b><a href="mailto:trinhthanhnam2003@gmail.com">trinhthanhnam2003@gmail.com</a></b>
       </td>
       <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/7o4h/7o4h/main/coding-boy.gif" alt="Coding Animation" />
+        <!-- New highly reliable Dev GIF -->
+        <img src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding Animation" width="100%" />
       </td>
     </tr>
   </table>
