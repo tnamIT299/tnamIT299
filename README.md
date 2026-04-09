@@ -26,7 +26,7 @@
       </td>
       <td width="40%" align="center">
         <!-- New highly reliable Dev GIF -->
-        <img src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding Animation" width="100%" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpjYWFkbmVidm10ZG5nZGU3OTFoeW03MnNhcm9scXVqaXRpcTlnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="100%" />
       </td>
     </tr>
   </table>
@@ -51,10 +51,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnamit299&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tnamit299&theme=dracula" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tnamit299&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnamit299&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tnamit299&theme=dracula" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tnamit299&theme=dracula" alt="Profile Details" width="48%" />
 </div>
 
 <br/>
